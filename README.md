@@ -1,6 +1,7 @@
 # First Project
 ## Creating a **one page** website
-Steps to create this repository:
+### Steps to create this repository:
+
 1. Go to the file where situated source of code.
 2. Pressed "_Git Bush Here_"
 3. In terminal write next steps
