@@ -6,7 +6,7 @@
 2. Pressed "_Git Bush Here_"
 3. In terminal write next steps
 * git init
-5. git add -A
-6. git commit -m "First commit"
-7. git remote add origin remote https://github.com/pats0/firstProject
-8. git push origin master
+* git add -A
+* git commit -m "First commit"
+* git remote add origin remote https://github.com/pats0/firstProject
+* git push origin master
